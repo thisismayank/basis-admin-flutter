@@ -81145,7 +81145,7 @@ g=A.L(255,64,187,62)
 p=b.e
 o=B.c.br(p)
 n=A.bI(l,B.l,l,l,l,l,l,l,l,l,l,a.E(k).f.a.a>800?12:10,l,B.B,l,l,!0,l,l,l,l,l,l,l,l)
-k=a.E(k).f.a.a>800?60:80
+k=a.E(k).f.a.a>800?50:80
 m=t.p
 return new A.lx(1.7777777777777777,A.f1(B.a9,A.b([A.acB(A.PF(l,l,j,l,A.b([h,s,r,q,A.hR(l,l,l,g,k,l,"Manual\n "+o,0.99,n,p)],t.Mr),l,i),B.H,B.bi),A.v6(A.el(A.nC(!1,!0,A.c1(A.b([A.awM(A.b7("Total Users\n"+B.c.br(b.Q),l,l,l,l,A.bI(l,l,l,l,l,l,l,l,l,l,l,l,l,B.B,l,l,!0,l,l,l,l,l,l,l,l),B.aN,l),"Total users who have started and are eligible for the flow\n activated + manual +in progress"),A.awM(A.b7("+"+A.e(b.c),l,l,l,l,B.S6,l,l),"Number of users who activated their card\n in the past 24 hours")],m),B.x,B.ee,B.u),l,!0,l,l,l,l,l,l,l,l,l,l,new A.adb(this.a,this.c),l,l,l,l,l),l,l))],m),B.a5,l,l),l)},
 $C:"$3",
