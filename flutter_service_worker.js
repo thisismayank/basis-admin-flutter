@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "e85b3f197df9bf323ca526fec7f43fd2",
-"index.html": "dc8a66615fbbe9cdc5da1079a92a840b",
-"/": "dc8a66615fbbe9cdc5da1079a92a840b",
-"main.dart.js": "126bba21c03547f96309e29ed89fd8c6",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "092c059532ad07f6809a686299af44bf",
+"/": "092c059532ad07f6809a686299af44bf",
+"main.dart.js": "29997e768757542a274a2502a253b42a",
 "icons/favicon.ico": "cbfed8a1962f6b927eb2c904e409fd13",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -27,11 +26,7 @@ const RESOURCES = {
 "assets/assets/images/BasisLogo.webp": "97333e35f6ba27043faf964bbc4b1cf8",
 "assets/assets/images/PowerCard.webp": "802c3f9362024b934055d0813879b13e",
 "assets/assets/images/google.png": "3381c35fcafb69a75255ee3e322da73f",
-"assets/assets/australia.json": "79248aed96c75b67857a4a5f1fbee1b2",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/australia.json": "79248aed96c75b67857a4a5f1fbee1b2"
 };
 
 // The application shell files that are downloaded before a service worker can
